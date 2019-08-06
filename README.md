@@ -11,7 +11,7 @@ startWithJson: (optional) boolean - if false, output json is always overwritten,
 
 delay: (optional) integer - minute of the hour to start the crawl. If, for example, 'delay=23' then if the current time is 13:21 the main process will sleep / loop every 30 seconds until the time is 13:23 before starting. This way the process can start at a later time.
 
->>>python Main.py originUrl=http://quotes.toscrape.com depthLimit=2 startWithJson=true delay=23
+&gt;&gt;&gt;python Main.py originUrl=http://quotes.toscrape.com depthLimit=2 startWithJson=true delay=23
 
 Dependencies
 

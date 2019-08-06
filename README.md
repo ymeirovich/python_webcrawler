@@ -1,7 +1,7 @@
 # python_webcrawler
 My first python webcrawler built without a framework but uses BeautifulSoup.
 
-4 cli arguments
+<b>4 cli arguments</b>
 
 originalUrl : (required) string - root url
 
@@ -13,13 +13,13 @@ delay: (optional) integer - minute of the hour to start the crawl. If, for examp
 
 &gt;&gt;&gt;python Main.py originUrl=http://quotes.toscrape.com depthLimit=2 startWithJson=true delay=23
 
-Dependencies
+<b>Dependencies</b>
 
 BeautifulSoup<br/>
 Request-Cache -  used to cache pages, can set the expiration time, stores in sqlite<br/>
 urllib3<br/>
 
-Output
+<b>Output</b>
 
 outputToJson.json - main record storage
 output.tsv - final url, deph,ratio records

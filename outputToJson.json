@@ -1,0 +1,197 @@
+{
+  "http://quotes.toscrape.com": [
+    {
+      "page_links": 2
+    },
+    {
+      "link": "https://scrapinghub.com",
+      "depth": 1
+    },
+    {
+      "link": "https://www.goodreads.com/quotes",
+      "depth": 1
+    }
+  ],
+  "https://www.goodreads.com/quotes": [
+    {
+      "page_links": 7
+    },
+    {
+      "link": "https://play.google.com/store/apps/details?id=com.goodreads&utm_source=mw_footer&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+      "depth": 2
+    },
+    {
+      "link": "https://help.goodreads.com",
+      "depth": 2
+    },
+    {
+      "link": "https://www.facebook.com/Goodreads/",
+      "depth": 2
+    },
+    {
+      "link": "https://twitter.com/goodreads",
+      "depth": 2
+    },
+    {
+      "link": "https://itunes.apple.com/app/apple-store/id355833469?pt=325668&ct=mw_footer&mt=8",
+      "depth": 2
+    },
+    {
+      "link": "https://www.goodreads.com/audible",
+      "depth": 2
+    },
+    {
+      "link": "https://www.instagram.com/goodreads/",
+      "depth": 2
+    }
+  ],
+  "https://scrapinghub.com": [
+    {
+      "page_links": 36
+    },
+    {
+      "link": "https://scrapinghub.com/jobs",
+      "depth": 2
+    },
+    {
+      "link": "https://www.glassdoor.ie/Reviews/Scrapinghub-Reviews-E929046.htm",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/whitepapers",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/contact",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/guides",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/splash",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/scrapy-cloud",
+      "depth": 2
+    },
+    {
+      "link": "https://support.scrapinghub.com/support/home",
+      "depth": 2
+    },
+    {
+      "link": "https://learn.scrapinghub.com/scrapy/",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/faq",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/about",
+      "depth": 2
+    },
+    {
+      "link": "https://doc.scrapinghub.com/",
+      "depth": 2
+    },
+    {
+      "link": "https://support.scrapinghub.com/",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/data-services",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/cookie-policy",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/open-source",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/what-is-web-scraping",
+      "depth": 2
+    },
+    {
+      "link": "https://www.facebook.com/ScrapingHub/",
+      "depth": 2
+    },
+    {
+      "link": "https://blog.scrapinghub.com/",
+      "depth": 2
+    },
+    {
+      "link": "https://extractsummit.io/?utm_source=Website&utm_medium=Organic&utm_campaign=Extract%20Summit",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/crawlera",
+      "depth": 2
+    },
+    {
+      "link": "https://github.com/scrapinghub/",
+      "depth": 2
+    },
+    {
+      "link": "https://twitter.com/ScrapingHub",
+      "depth": 2
+    },
+    {
+      "link": "https://support.scrapinghub.com",
+      "depth": 2
+    },
+    {
+      "link": "https://app.scrapinghub.com/account/login/",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/privacy-policy",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/scrapy",
+      "depth": 2
+    },
+    {
+      "link": "https://www.instagram.com/scrapinghub/",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/abuse-report",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/use-cases",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/developer-api",
+      "depth": 2
+    },
+    {
+      "link": "https://app.scrapinghub.com/account/signup/",
+      "depth": 2
+    },
+    {
+      "link": "https://www.youtube.com/channel/UCYb6YWTBfD0EB53shkN_6vA",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/webinars",
+      "depth": 2
+    },
+    {
+      "link": "https://status.scrapinghub.com/",
+      "depth": 2
+    },
+    {
+      "link": "https://scrapinghub.com/case-studies",
+      "depth": 2
+    }
+  ]
+}

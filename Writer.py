@@ -24,7 +24,7 @@ class Writer:
             return data.netloc
 
         def calculate_ratios(link, parent_url):
-            print('calculating ratios')
+            # print('calculating ratios')
             '''
             loop to each subpage
             extract url from link property

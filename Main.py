@@ -5,9 +5,6 @@ from Fetch import Fetch
 import time
 from datetime import datetime as dt
 
-import csv, json, logging, os
-import sys, traceback
-from urllib.parse import urlparse
 
 class Main:
 

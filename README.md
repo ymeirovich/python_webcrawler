@@ -15,9 +15,9 @@ delay: (optional) integer - minute of the hour to start the crawl. If, for examp
 
 Dependencies
 
-BeautifulSoup
-Request-Cache -  used to cache pages, can set the expiration time, stores in sqlite
-urllib3
+BeautifulSoup<br/>
+Request-Cache -  used to cache pages, can set the expiration time, stores in sqlite<br/>
+urllib3<br/>
 
 Output
 
